@@ -1,0 +1,26 @@
+---
+title: "Palau_settlement"
+author: "C Sims"
+date: "24/09/2020"
+output: html_document
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
